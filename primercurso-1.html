@@ -1,0 +1,33 @@
+<!DOCTYPE HTML>
+<html lang="es">
+  <head>
+      <title>Hola Mundo</title>
+      <meta name="description" content="Mi primer Curso HTML">
+      <meta name="autor" content="Martin Macgowan">
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+      <script>
+        alert("¡Bienvenido a mi primera página!")
+      </script>
+  </head>
+  <body>
+   <div id="article">
+      <div id="header">
+      <h1> Mi Primer Curso</h1>
+      <h2> Mi Primer Curso de Programacion en Pluralsight</h2>
+    </div>
+    <div id="body">
+      <p>Primer curso para aprender a programar en html, css y javascript.</p>
+      <p>Ya terminé la primera<sup><abbr title="Número Uno">1</abbr></sup> parte del curso.</p>
+      <p>Todavia me falta mucho pero <span class="fact">quiero seguir aprendiendo</p>
+      <h4> Agradecimientos</h4>
+      <q> Empezé el curso en <abbr title="PluralSight">PS</abbr> gracias a mi papá<sup><abbr title="Te quiero">2</abbr></sup>.</q>
+      <br />
+      <cite> Martin Macgowan, BuenosAires&lt;CABA&gt;</cite>
+    </div>
+  </div>
+    <hr />
+    <div id="footer">
+    Copyright Martin Macgowan 2020  &copy;
+    </div>
+  </body>
+</html>    
